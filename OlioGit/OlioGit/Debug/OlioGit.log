@@ -1,2 +1,5 @@
-﻿  Main.cpp
-c:\users\mikakau\documents\olio\olio.git\oliogit\oliogit\main.cpp(31): error C3867: 'Tuote::Tulosta': non-standard syntax; use '&' to create a pointer to member
+﻿  Tuote.cpp
+  Olio.cpp
+  Main.cpp
+  Generating Code...
+  OlioGit.vcxproj -> C:\Users\Mikakau\Documents\Olio\Olio.git\OlioGit\Debug\OlioGit.exe

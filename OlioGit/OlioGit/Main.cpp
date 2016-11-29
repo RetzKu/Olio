@@ -1,6 +1,5 @@
 #include "Tuote.h"
 #include <vector>
-#include <fstream>
 using namespace std;
 
 
@@ -27,8 +26,7 @@ int main()
 	for (size_t i = 0; i < Tlista.size(); i++)
 	{
 		Tlista[i].Tulosta();
-		myfile << Tlista[i]->N;
-		myfile.close();
+
 	}
 
 

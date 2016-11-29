@@ -10,6 +10,8 @@ public:
 	Tuote(std::string N, float H);
 
 	void Tulosta();
+	void Tallennus();
+
 
 	~Tuote();
 private:
